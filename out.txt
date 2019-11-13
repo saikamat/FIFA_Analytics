@@ -1,0 +1,651 @@
+1 	 FC Barcelona Club
+2 	 Juventus Club
+3 	 Paris Saint-Germain Club
+4 	 Manchester United Club
+5 	 Manchester City Club
+6 	 Chelsea Club
+7 	 Real Madrid Club
+8 	 Atlético Madrid Club
+9 	 FC Bayern München Club
+10 	 Tottenham Hotspur Club
+11 	 Liverpool Club
+12 	 Napoli Club
+13 	 Arsenal Club
+14 	 Milan Club
+15 	 Inter Club
+16 	 Lazio Club
+17 	 Borussia Dortmund Club
+18 	 Vissel Kobe Club
+19 	 Olympique Lyonnais Club
+20 	 Roma Club
+21 	 Valencia CF Club
+22 	 Guangzhou Evergrande Taobao FC Club
+23 	 FC Porto Club
+24 	 FC Schalke 04 Club
+25 	 Beşiktaş JK Club
+26 	 LA Galaxy Club
+27 	 Sporting CP Club
+28 	 Real Betis Club
+29 	 Olympique de Marseille Club
+30 	 RC Celta Club
+31 	 Bayer 04 Leverkusen Club
+32 	 Real Sociedad Club
+33 	 Villarreal CF Club
+34 	 Sevilla FC Club
+35 	 SL Benfica Club
+36 	 AS Saint-Étienne Club
+37 	 AS Monaco Club
+38 	 Leicester City Club
+39 	 Atalanta Club
+40 	 Grêmio Club
+41 	 Atlético Mineiro Club
+42 	 RB Leipzig Club
+43 	 Ajax Club
+44 	 Dalian YiFang FC Club
+45 	 Everton Club
+46 	 West Ham United Club
+47 	 1. FC Köln Club
+48 	 TSG 1899 Hoffenheim Club
+49 	 Shanghai SIPG FC Club
+50 	 OGC Nice Club
+51 	 Al Nassr Club
+52 	 Wolverhampton Wanderers Club
+53 	 Borussia Mönchengladbach Club
+54 	 Hertha BSC Club
+55 	 SV Werder Bremen Club
+56 	 Cruzeiro Club
+57 	 Athletic Club de Bilbao Club
+58 	 Torino Club
+59 	 Medipol Başakşehir FK Club
+60 	 Beijing Sinobo Guoan FC Club
+61 	 Crystal Palace Club
+62 	 PFC CSKA Moscow Club
+63 	 VfL Wolfsburg Club
+64 	 Shakhtar Donetsk Club
+65 	 Toronto FC Club
+66 	 Lokomotiv Moscow Club
+67 	 Sassuolo Club
+68 	 New York City FC Club
+69 	 Fluminense Club
+70 	 PSV Club
+71 	 Levante UD Club
+72 	 Fulham Club
+73 	 Watford Club
+74 	 Atlanta United Club
+75 	 Montpellier HSC Club
+76 	 Galatasaray SK Club
+77 	 Fenerbahçe SK Club
+78 	 SD Eibar Club
+79 	 Los Angeles FC Club
+80 	 Sampdoria Club
+81 	 Al Hilal Club
+82 	 VfB Stuttgart Club
+83 	 SC Braga Club
+84 	 River Plate Club
+85 	 Deportivo Alavés Club
+86 	 Eintracht Frankfurt Club
+87 	 Girona FC Club
+88 	 Guangzhou R&F; FC Club
+89 	 Burnley Club
+90 	 Stoke City Club
+91 	 Southampton Club
+92 	 Tianjin Quanjian FC Club
+93 	 Getafe CF Club
+94 	 Beijing Renhe FC Club
+95 	 Montreal Impact Club
+96 	 Chievo Verona Club
+97 	 Genoa Club
+98 	 Portland Timbers Club
+99 	 Tigres U.A.N.L. Club
+100 	 RCD Espanyol Club
+101 	 Hebei China Fortune FC Club
+102 	 Cagliari Club
+103 	 Chicago Fire Club
+104 	 DC United Club
+105 	 Sagan Tosu Club
+106 	 Dynamo Kyiv Club
+107 	 Santos Club
+108 	 Internacional Club
+109 	 América FC (Minas Gerais) Club
+110 	 Independiente Club
+111 	 Boca Juniors Club
+112 	 Cruz Azul Club
+113 	 1. FSV Mainz 05 Club
+114 	 Bournemouth Club
+115 	 Spartak Moscow Club
+116 	 Racing Club Club
+117 	 FC Augsburg Club
+118 	 Fiorentina Club
+119 	 FC Nantes Club
+120 	 Feyenoord Club
+121 	 Club Brugge KV Club
+122 	 Brighton & Hove Albion Club
+123 	 Al Ahli Club
+124 	 Jiangsu Suning FC Club
+125 	 SC Freiburg Club
+126 	 PAOK Club
+127 	 Stade Rennais FC Club
+128 	 Trabzonspor Club
+129 	 SPAL Club
+130 	 Portimonense SC Club
+131 	 Olympiacos CFP Club
+132 	 Club Atlético Huracán Club
+133 	 Kasimpaşa SK Club
+134 	 Newcastle United Club
+135 	 Frosinone Club
+136 	 Querétaro Club
+137 	 KRC Genk Club
+138 	 Hannover 96 Club
+139 	 Stade Malherbe Caen Club
+140 	 Godoy Cruz Club
+141 	 Toulouse Football Club Club
+142 	 RSC Anderlecht Club
+143 	 Huddersfield Town Club
+144 	 CD Tondela Club
+145 	 Seattle Sounders FC Club
+146 	 Hamburger SV Club
+147 	 FC Red Bull Salzburg Club
+148 	 Rio Ave FC Club
+149 	 FC Girondins de Bordeaux Club
+150 	 Melbourne Victory Club
+151 	 Parma Club
+152 	 FC Basel 1893 Club
+153 	 Al Wehda Club
+154 	 BSC Young Boys Club
+155 	 KAA Gent Club
+156 	 Al Ittihad Club
+157 	 Standard de Liège Club
+158 	 Shanghai Greenland Shenhua FC Club
+159 	 Colo-Colo Club
+160 	 Junior FC Club
+161 	 West Bromwich Albion Club
+162 	 RC Strasbourg Alsace Club
+163 	 Göztepe SK Club
+164 	 Deportivo Cali Club
+165 	 Deportivo Toluca Club
+166 	 Bologna Club
+167 	 Nagoya Grampus Club
+168 	 Amiens SC Club
+169 	 Changchun Yatai FC Club
+170 	 Club Atlético Lanús Club
+171 	 Botafogo Club
+172 	 Club América Club
+173 	 Udinese Club
+174 	 Real Valladolid CF Club
+175 	 CD Leganés Club
+176 	 Club Atlético Banfield Club
+177 	 Celtic Club
+178 	 Vitória Guimarães Club
+179 	 FC København Club
+180 	 UD Las Palmas Club
+181 	 Deportivo de La Coruña Club
+182 	 Universidad Católica Club
+183 	 San Lorenzo de Almagro Club
+184 	 Rayo Vallecano Club
+185 	 Monterrey Club
+186 	 Columbus Crew SC Club
+187 	 MKE Ankaragücü Club
+188 	 Guizhou Hengfeng FC Club
+189 	 Swansea City Club
+190 	 Tianjin TEDA FC Club
+191 	 Chongqing Dangdai Lifan FC SWM Team Club
+192 	 AEK Athens Club
+193 	 Al Taawoun Club
+194 	 Melbourne City FC Club
+195 	 En Avant de Guingamp Club
+196 	 Akhisar Belediyespor Club
+197 	 Foggia Club
+198 	 LOSC Lille Club
+199 	 1. FC Nürnberg Club
+200 	 Clube Sport Marítimo Club
+201 	 Real Sporting de Gijón Club
+202 	 BB Erzurumspor Club
+203 	 Shandong Luneng TaiShan FC Club
+204 	 Club Atlético Colón Club
+205 	 Bahia Club
+206 	 Once Caldas Club
+207 	 FC Groningen Club
+208 	 Angers SCO Club
+209 	 Paraná Club
+210 	 Antalyaspor Club
+211 	 Minnesota United FC Club
+212 	 Club León Club
+213 	 Empoli Club
+214 	 VVV-Venlo Club
+215 	 Leeds United Club
+216 	 Viktoria Plzeň Club
+217 	 Alanyaspor Club
+218 	 Atlético Paranaense Club
+219 	 Derby County Club
+220 	 Kawasaki Frontale Club
+221 	 Cardiff City Club
+222 	 Aston Villa Club
+223 	 Guadalajara Club
+224 	 Dijon FCO Club
+225 	 Santos Laguna Club
+226 	 Málaga CF Club
+227 	 Vitória Club
+228 	 Çaykur Rizespor Club
+229 	 U.N.A.M. Club
+230 	 Nottingham Forest Club
+231 	 Royal Antwerp FC Club
+232 	 Club Tijuana Club
+233 	 Sport Club do Recife Club
+234 	 Real Salt Lake Club
+235 	 AZ Alkmaar Club
+236 	 SK Slavia Praha Club
+237 	 Willem II Club
+238 	 Middlesbrough Club
+239 	 Dinamo Zagreb Club
+240 	 Club Atlas Club
+241 	 Granada CF Club
+242 	 Sydney FC Club
+243 	 Sporting Kansas City Club
+244 	 SV Zulte-Waregem Club
+245 	 Philadelphia Union Club
+246 	 Real Oviedo Club
+247 	 Pachuca Club
+248 	 Boavista FC Club
+249 	 Atiker Konyaspor Club
+250 	 Kaizer Chiefs Club
+251 	 GD Chaves Club
+252 	 Palermo Club
+253 	 Atlético Nacional Club
+254 	 Puebla FC Club
+255 	 Perth Glory Club
+256 	 Panathinaikos FC Club
+257 	 FC Sion Club
+258 	 Vitória de Setúbal Club
+259 	 New York Red Bulls Club
+260 	 Al Shabab Club
+261 	 Monarcas Morelia Club
+262 	 Albacete BP Club
+263 	 Rangers FC Club
+264 	 Sparta Praha Club
+265 	 Legia Warszawa Club
+266 	 Urawa Red Diamonds Club
+267 	 Rosario Central Club
+268 	 Stade de Reims Club
+269 	 ADO Den Haag Club
+270 	 Chapecoense Club
+271 	 FC Midtjylland Club
+272 	 San Jose Earthquakes Club
+273 	 Belgrano de Córdoba Club
+274 	 Brescia Club
+275 	 Kashima Antlers Club
+276 	 CD Everton de Viña del Mar Club
+277 	 Fortuna Düsseldorf Club
+278 	 SD Huesca Club
+279 	 Preston North End Club
+280 	 Club Atlético Talleres Club
+281 	 Benevento Club
+282 	 Vitesse Club
+283 	 Gimnasia y Esgrima La Plata Club
+284 	 Houston Dynamo Club
+285 	 Club Necaxa Club
+286 	 Norwich City Club
+287 	 Holstein Kiel Club
+288 	 Ettifaq FC Club
+289 	 Kayserispor Club
+290 	 1. FC Heidenheim 1846 Club
+291 	 Brentford Club
+292 	 Yeni Malatyaspor Club
+293 	 Lobos BUAP Club
+294 	 Bursaspor Club
+295 	 Ceará Sporting Club Club
+296 	 Sheffield United Club
+297 	 FC Ingolstadt 04 Club
+298 	 Estudiantes de La Plata Club
+299 	 AIK Club
+300 	 Queens Park Rangers Club
+301 	 Suwon Samsung Bluewings Club
+302 	 Heart of Midlothian Club
+303 	 Reading Club
+304 	 FC Dallas Club
+305 	 Heracles Almelo Club
+306 	 Venezia FC Club
+307 	 CD Lugo Club
+308 	 Henan Jianye FC Club
+309 	 Orlando City SC Club
+310 	 CA Osasuna Club
+311 	 NAC Breda Club
+312 	 Livorno Club
+313 	 Universidad de Chile Club
+314 	 Brøndby IF Club
+315 	 Aberdeen Club
+316 	 Defensa y Justicia Club
+317 	 Atlético Tucumán Club
+318 	 Blackburn Rovers Club
+319 	 SV Darmstadt 98 Club
+320 	 Moreirense FC Club
+321 	 Sanfrecce Hiroshima Club
+322 	 CD Numancia Club
+323 	 KV Oostende Club
+324 	 FC Utrecht Club
+325 	 Vancouver Whitecaps FC Club
+326 	 Odense Boldklub Club
+327 	 SC Heerenveen Club
+328 	 Racing Club de Lens Club
+329 	 Independiente Santa Fe Club
+330 	 Sporting de Charleroi Club
+331 	 Millonarios FC Club
+332 	 Sheffield Wednesday Club
+333 	 Perugia Club
+334 	 Daegu FC Club
+335 	 Vélez Sarsfield Club
+336 	 Grasshopper Club Zürich Club
+337 	 Sivasspor Club
+338 	 Nîmes Olympique Club
+339 	 Rosenborg BK Club
+340 	 SK Sturm Graz Club
+341 	 FC Metz Club
+342 	 CD Universidad de Concepción Club
+343 	 Hellas Verona Club
+344 	 Brisbane Roar Club
+345 	 CD Feirense Club
+346 	 Hull City Club
+347 	 Waasland-Beveren Club
+348 	 Neuchâtel Xamax Club
+349 	 Real Zaragoza Club
+350 	 CD Aves Club
+351 	 Millwall Club
+352 	 Unión de Santa Fe Club
+353 	 KAS Eupen Club
+354 	 Cádiz CF Club
+355 	 FC Tokyo Club
+356 	 CD Tenerife Club
+357 	 1. FC Union Berlin Club
+358 	 Al Fayha Club
+359 	 AJ Auxerre Club
+360 	 Patriotas Boyacá FC Club
+361 	 Molde FK Club
+362 	 Bristol City Club
+363 	 CD Nacional Club
+364 	 Sporting Lokeren Club
+365 	 FC St. Pauli Club
+366 	 Deportes Iquique Club
+367 	 Al Qadisiyah Club
+368 	 Atlético Bucaramanga Club
+369 	 Club Atlético Tigre Club
+370 	 FK Austria Wien Club
+371 	 Patronato Club
+372 	 Malmö FF Club
+373 	 Kashiwa Reysol Club
+374 	 US Cremonese Club
+375 	 VfL Bochum 1848 Club
+376 	 SK Rapid Wien Club
+377 	 KSV Cercle Brugge Club
+378 	 Rionegro Águilas Club
+379 	 Gimnàstic de Tarragona Club
+380 	 Lecce Club
+381 	 Santa Clara Club
+382 	 BK Häcken Club
+383 	 New England Revolution Club
+384 	 Orlando Pirates Club
+385 	 Atlético Huila Club
+386 	 Western Sydney Wanderers Club
+387 	 Kalmar FF Club
+388 	 Independiente Medellín Club
+389 	 Fortuna Sittard Club
+390 	 Lech Poznań Club
+391 	 Djurgårdens IF Club
+392 	 CF Reus Deportiu Club
+393 	 SK Brann Club
+394 	 Ulsan Hyundai FC Club
+395 	 Sint-Truidense VV Club
+396 	 Carpi Club
+397 	 Al Fateh Club
+398 	 Royal Excel Mouscron Club
+399 	 AC Ajaccio Club
+400 	 PEC Zwolle Club
+401 	 Sunderland Club
+402 	 Club Atlético Aldosivi Club
+403 	 US Salernitana 1919 Club
+404 	 FC Lorient Club
+405 	 Argentinos Juniors Club
+406 	 AD Alcorcón Club
+407 	 Crotone Club
+408 	 Excelsior Club
+409 	 KV Kortrijk Club
+410 	 IFK Norrköping Club
+411 	 Adelaide United Club
+412 	 FC St. Gallen Club
+413 	 Tiburones Rojos de Veracruz Club
+414 	 CD Palestino Club
+415 	 Jeju United FC Club
+416 	 Deportes Tolima Club
+417 	 Jeonbuk Hyundai Motors Club
+418 	 Birmingham City Club
+419 	 América de Cali Club
+420 	 La Equidad Club
+421 	 Spezia Club
+422 	 Aalborg BK Club
+423 	 Le Havre AC Club
+424 	 Górnik Zabrze Club
+425 	 Central Coast Mariners Club
+426 	 Wigan Athletic Club
+427 	 Jagiellonia Białystok Club
+428 	 Cittadella Club
+429 	 Hibernian Club
+430 	 FC Lugano Club
+431 	 San Martín de San Juan Club
+432 	 Strømsgodset IF Club
+433 	 Júbilo Iwata Club
+434 	 Newell's Old Boys Club
+435 	 Al Faisaly Club
+436 	 Colorado Rapids Club
+437 	 IF Elfsborg Club
+438 	 SV Sandhausen Club
+439 	 Al Batin Club
+440 	 Stade Brestois 29 Club
+441 	 UD Almería Club
+442 	 Gyeongnam FC Club
+443 	 Yokohama F. Marinos Club
+444 	 Kilmarnock Club
+445 	 Pescara Club
+446 	 Newcastle Jets Club
+447 	 Córdoba CF Club
+448 	 RCD Mallorca Club
+449 	 Hammarby IF Club
+450 	 Cerezo Osaka Club
+451 	 KFC Uerdingen 05 Club
+452 	 Shimizu S-Pulse Club
+453 	 MSV Duisburg Club
+454 	 Os Belenenses Club
+455 	 DSC Arminia Bielefeld Club
+456 	 Ipswich Town Club
+457 	 FC Seoul Club
+458 	 Lechia Gdańsk Club
+459 	 Gamba Osaka Club
+460 	 CF Rayo Majadahonda Club
+461 	 LASK Linz Club
+462 	 Bolton Wanderers Club
+463 	 Al Raed Club
+464 	 Extremadura UD Club
+465 	 SC Paderborn 07 Club
+466 	 Wellington Phoenix Club
+467 	 Unión Española Club
+468 	 Alianza Petrolera Club
+469 	 Cracovia Club
+470 	 Gangwon FC Club
+471 	 Elche CF Club
+472 	 ESTAC Troyes Club
+473 	 AS Béziers Club
+474 	 La Berrichonne de Châteauroux Club
+475 	 Clermont Foot 63 Club
+476 	 1. FC Magdeburg Club
+477 	 Pohang Steelers Club
+478 	 Örebro SK Club
+479 	 Arka Gdynia Club
+480 	 SG Dynamo Dresden Club
+481 	 SpVgg Greuther Fürth Club
+482 	 CD Huachipato Club
+483 	 Wisła Kraków Club
+484 	 Stabæk Fotball Club
+485 	 Eintracht Braunschweig Club
+486 	 Valenciennes FC Club
+487 	 FC Thun Club
+488 	 San Luis de Quillota Club
+489 	  SSV Jahn Regensburg Club
+490 	 Cosenza Club
+491 	 FC Nordsjælland Club
+492 	 FC Erzgebirge Aue Club
+493 	 Jeonnam Dragons Club
+494 	 Wolfsberger AC Club
+495 	 Chamois Niortais Football Club Club
+496 	 Club Deportes Temuco Club
+497 	 AS Nancy Lorraine Club
+498 	 Red Star FC Club
+499 	 Al Hazem Club
+500 	 Pogoń Szczecin Club
+501 	 Charlton Athletic Club
+502 	 Grenoble Foot 38 Club
+503 	 FC Hansa Rostock Club
+504 	 San Martin de Tucumán Club
+505 	 Incheon United FC Club
+506 	 Śląsk Wrocław Club
+507 	 GFC Ajaccio Club
+508 	 1. FC Kaiserslautern Club
+509 	 Deportivo Pasto Club
+510 	 Lincoln City Club
+511 	 Motherwell Club
+512 	 Rotherham United Club
+513 	 Burton Albion Club
+514 	 Wisła Płock Club
+515 	 FC Wacker Innsbruck Club
+516 	 Peterborough United Club
+517 	 Ascoli Club
+518 	 FC Zürich Club
+519 	 Fleetwood Town Club
+520 	 Padova Club
+521 	 FC Sochaux-Montbéliard Club
+522 	 SV Wehen Wiesbaden Club
+523 	 Unión La Calera Club
+524 	 Scunthorpe United Club
+525 	 CD O'Higgins Club
+526 	 CD Antofagasta Club
+527 	 Plymouth Argyle Club
+528 	 Aarhus GF Club
+529 	 Lillestrøm SK Club
+530 	 Karlsruher SC Club
+531 	 GIF Sundsvall Club
+532 	 FC Emmen Club
+533 	 Barnsley Club
+534 	 Audax Italiano Club
+535 	 V-Varen Nagasaki Club
+536 	 Paris FC Club
+537 	 SpVgg Unterhaching Club
+538 	 Hobro IK Club
+539 	 De Graafschap Club
+540 	 Hokkaido Consadole Sapporo Club
+541 	 Tromsø IL Club
+542 	 FC Luzern Club
+543 	 FK Haugesund Club
+544 	 Zagłębie Lubin Club
+545 	 VfR Aalen Club
+546 	 Dundalk Club
+547 	 Oxford United Club
+548 	 Piast Gliwice Club
+549 	 Ohod Club Club
+550 	 Östersunds FK Club
+551 	 Vegalta Sendai Club
+552 	 Crawley Town Club
+553 	 FC Admira Wacker Mödling Club
+554 	 Vålerenga Fotball Club
+555 	 Dundee FC Club
+556 	 Portsmouth Club
+557 	 Envigado FC Club
+558 	 Miedź Legnica Club
+559 	 Odds BK Club
+560 	 SC Fortuna Köln Club
+561 	 US Orléans Loiret Football Club
+562 	 Sarpsborg 08 FF Club
+563 	 Jaguares de Córdoba Club
+564 	 Bradford City Club
+565 	 Accrington Stanley Club
+566 	 St. Johnstone FC Club
+567 	 Boyacá Chicó FC Club
+568 	 Luton Town Club
+569 	 SV Mattersburg Club
+570 	 Kristiansund BK Club
+571 	 Sangju Sangmu FC Club
+572 	 Rochdale Club
+573 	 Walsall Club
+574 	 Korona Kielce Club
+575 	 Shonan Bellmare Club
+576 	 FC Würzburger Kickers Club
+577 	 FSV Zwickau Club
+578 	 St. Mirren Club
+579 	 AC Horsens Club
+580 	 Esbjerg fB Club
+581 	 HJK Helsinki Club
+582 	 Southend United Club
+583 	 Bristol Rovers Club
+584 	 Hamilton Academical FC Club
+585 	 TSV 1860 München Club
+586 	 Curicó Unido Club
+587 	 SCR Altach Club
+588 	 Ranheim Fotball Club
+589 	 Stevenage Club
+590 	 SG Sonnenhof Großaspach Club
+591 	 Oldham Athletic Club
+592 	 Milton Keynes Dons Club
+593 	 FK Bodø/Glimt Club
+594 	 SC Preußen Münster Club
+595 	 Wycombe Wanderers Club
+596 	 Vejle Boldklub Club
+597 	 Bury Club
+598 	 Randers FC Club
+599 	 VfL Osnabrück Club
+600 	 SønderjyskE Club
+601 	 IFK Göteborg Club
+602 	 Mansfield Town Club
+603 	 Coventry City Club
+604 	 Waterford FC Club
+605 	 Shrewsbury Club
+606 	 IK Start Club
+607 	 Gillingham Club
+608 	 FC Energie Cottbus Club
+609 	 FC Carl Zeiss Jena Club
+610 	 Hallescher FC Club
+611 	 SV Meppen Club
+612 	 AFC Wimbledon Club
+613 	 Blackpool Club
+614 	 Doncaster Rovers Club
+615 	 Sandefjord Fotball Club
+616 	 VfL Sportfreunde Lotte Club
+617 	 Cheltenham Town Club
+618 	 IK Sirius Club
+619 	 Vendsyssel FF Club
+620 	 Swindon Town Club
+621 	 Notts County Club
+622 	 SKN St. Pölten Club
+623 	 Exeter City Club
+624 	 Northampton Town Club
+625 	 Shamrock Rovers Club
+626 	 Colchester United Club
+627 	 Livingston FC Club
+628 	 TSV Hartberg Club
+629 	 Tranmere Rovers Club
+630 	 Cambridge United Club
+631 	 Grimsby Town Club
+632 	 Port Vale Club
+633 	 Itagüí Leones FC Club
+634 	 Forest Green Rovers Club
+635 	 Dalkurd FF Club
+636 	 Zagłębie Sosnowiec Club
+637 	 Carlisle United Club
+638 	 Trelleborgs FF Club
+639 	 St. Patrick's Athletic Club
+640 	 Morecambe Club
+641 	 Cork City Club
+642 	 IF Brommapojkarna Club
+643 	 Crewe Alexandra Club
+644 	 Yeovil Town Club
+645 	 Bohemian FC Club
+646 	 Macclesfield Town Club
+647 	 Newport County Club
+648 	 Sligo Rovers Club
+649 	 Derry City Club
+650 	 Limerick FC Club
+651 	 Bray Wanderers Club
