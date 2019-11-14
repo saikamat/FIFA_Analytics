@@ -1,0 +1,29 @@
+{
+	"version": 1,
+	"collections": [],
+	"environments": [
+		{
+			"id": "bdb5d72f-4747-4c3f-8150-59c504e7a36a",
+			"name": "my_creds",
+			"values": [
+				{
+					"key": "app_id",
+					"value": "k753y2bEeMLuMrU97bCQ",
+					"enabled": true
+				},
+				{
+					"key": "app_code",
+					"value": "ojte6xAYCVQOzXiRIbX6TQ",
+					"enabled": true
+				}
+			]
+		},
+		{
+			"id": "6555fefb-3f6a-4b28-8cc5-1615d3c52886",
+			"name": "My Workspace - globals",
+			"values": []
+		}
+	],
+	"headerPresets": [],
+	"globals": []
+}
